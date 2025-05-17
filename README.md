@@ -5,9 +5,9 @@ Sou uma engenheira de qualidade de software apaixonada por automação de testes
 
 ## 🛠️ Tecnologias e Ferramentas
 
-💻 Linguagens: Java, JavaScript, Python, R
+💻 Linguagens: Java, JavaScript, Python, typescript, R
 
-🧪 Testes: Selenium, Robot Framework, JUnit, Cucumber
+🧪 Testes: Selenium, Robot Framework, JUnit, Jest, Cucumber
 
 ⚙️ CI/CD: GitHub Actions, Jenkins, Docker
 

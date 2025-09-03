@@ -45,7 +45,22 @@ Estou constantemente estudando e aplicando conceitos com ferramentas modernas pa
 
 ## 🌟 Projetos em Destaque
 
-Em breve, estarei destacando aqui os projetos que melhor representam minha transição para AI. Fique à vontade para explorar os repositórios e acompanhar minha evolução!
+Minha transição para Inteligência Artificial está sendo construída com dedicação, prática e propósito — e você pode acompanhar tudo isso de perto! 🚀
+
+Cada projeto que publico representa uma etapa concreta da minha especialização em IA, desde os fundamentos em Python até aplicações avançadas com redes neurais, visão computacional, NLP e muito mais.
+
+📘 Explore minha jornada completa na wiki:
+
+[github.com/alineAssuncao/ai_wiki](https://github.com/alineAssuncao/ai_wiki)
+
+Lá você encontrará:
+- Cronograma mensal com temas organizados
+- Links para cursos e materiais gratuitos
+- Projetos práticos com código aberto
+- Resumos e reflexões sobre cada etapa
+- 
+Acompanhe minha evolução, mergulhe nos repositórios e veja como estou construindo um portfólio sólido para atuar com IA de forma ética, aplicada e criativa.
+
 
 ---
 

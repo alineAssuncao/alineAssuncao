@@ -1,74 +1,132 @@
 # 👋 Olá! Eu sou Aline Assunção
 
-### 🚀 Bem-vindo ao meu GitHub!
-
-Sou engenheira de qualidade de software com sólida experiência em automação de testes e atualmente em transição para o universo fascinante da **Inteligência Artificial**. Aqui você encontrará projetos que refletem minha jornada de aprendizado e evolução nas áreas de **AI**, **testes automatizados** e **desenvolvimento de software**.
+> Estou construindo um portfólio em **Inteligência Artificial e Agentes Inteligentes**, 
+> compartilhando **aprendizados práticos e explicações diretas** para quem quer entender 
+> como usar IA na prática, sem depender apenas de documentação técnica complexa.
 
 ---
 
-## 🧠 Em transição para Inteligência Artificial
+## 🚀 Bem-vindo(a) ao meu GitHub
 
-Minha paixão por tecnologia me levou a explorar profundamente temas como:
+Sou **engenheira de qualidade de software**, com sólida experiência em **automação de testes**, 
+e atualmente estou em uma **transição estruturada para a área de Inteligência Artificial**.
 
-- **Agentes Autônomos e Multiagentes**
+Este GitHub é o **registro prático da minha jornada de aprendizado**, onde organizo estudos, 
+experimentos e projetos em **IA, agentes inteligentes e engenharia de software**, com foco em 
+**aplicação prática, clareza e construção de portfólio**.
+
+---
+
+## 🧠 Formação atual em Inteligência Artificial
+
+Atualmente, curso **duas pós-graduações em instituições públicas e reconhecidas**, que estruturam 
+e orientam meus estudos teóricos e práticos em IA:
+
+- 🎓 **Pós-graduação em Inteligência Artificial**  
+  **Universidade Tecnológica Federal do Paraná (UTFPR)**  
+  https://pos-graduacao-ead.cp.utfpr.edu.br/inteligencia-artificial/
+
+- 🎓 **Pós-graduação em Agentes Inteligentes**  
+  **Instituto de Informática – Universidade Federal de Goiás (UFG)**  
+  https://agentes.inf.ufg.br/
+
+Essas formações fornecem a base conceitual que aplico nos projetos publicados aqui, especialmente 
+em temas como **agentes autônomos, tomada de decisão, IA generativa, aprendizado de máquina, 
+sistemas inteligentes e uso responsável de IA**.
+
+---
+
+## 🔍 Propósito deste GitHub
+
+Durante meus estudos, percebi que **existe muito conteúdo técnico rico em IA**, mas que muitas vezes:
+
+- a documentação é densa ou fragmentada  
+- os exemplos não são claros para quem está aprendendo  
+- falta conexão entre teoria e uso prático  
+
+🎯 **O objetivo deste GitHub é exatamente reduzir essa distância**, ao:
+
+- traduzir conceitos teóricos e documentação técnica em **exemplos práticos**
+- registrar **aprendizados reais**, incluindo erros, limitações e decisões
+- construir um **portfólio aplicado**, não apenas acadêmico
+
+Tudo o que compartilho aqui faz parte do meu **processo ativo de aprendizado e consolidação em Inteligência Artificial**.
+
+---
+
+## 🔬 Temas que estudo e aplico na prática
+
+Meus projetos e anotações exploram, de forma progressiva e aplicada:
+
+- **Agentes Autônomos e Sistemas Multiagentes**
+- **IA Generativa e LLMs**
 - **Machine Learning & Deep Learning**
-- **IA Generativa**
-- **Redes Neurais Artificiais**
-- **Visão Computacional**
 - **Processamento de Linguagem Natural (NLP)**
+- **Visão Computacional**
+- **Arquiteturas de decisão e fluxos com IA**
 
-Estou constantemente estudando e aplicando conceitos com ferramentas modernas para construir soluções inteligentes e escaláveis.
+Sempre que possível, documento **o que funcionou, o que não funcionou e por quê**, pois aprender IA 
+também é entender **limites, custos, trade-offs e impacto**.
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## 🛠️ Tecnologias e Ferramentas (em contexto de uso)
 
 ### 🤖 Inteligência Artificial
-`ADK`, `MCP`, `CrewAI`, `Langchain`, `LangGraph`, `Agno`, `Llama`
+Utilizadas principalmente em **projetos de estudo, experimentos e provas de conceito**:
+`CrewAI`, `LangChain`, `LangGraph`, `Agno`, `Llama`, `MCP`, `ADK`
 
-### 💻 Linguagens de Programação
-`Python`, `Java`, `JavaScript`, `TypeScript`, `R`, `C++`
+### 💻 Linguagens
+`Python` (principal foco em IA), `Java`, `JavaScript`, `TypeScript`, `R`, `C++`
 
-### 🧪 Testes Automatizados
+### 🧪 Qualidade e Testes
+Base da minha experiência profissional:
 `Selenium`, `Robot Framework`, `JUnit`, `Jest`, `Cucumber`
 
 ### ⚙️ DevOps & CI/CD
-`GitHub Actions`, `Jenkins`, `Docker`, `Dockerfile`, `Docker Compose`
+`GitHub Actions`, `Jenkins`, `Docker`, `Docker Compose`
 
-### 📊 Banco de Dados
-`MongoDB`, `SQL`, `MySQL`, `PostgreSQL`
-
-### 📚 Outros
-`REST API`, `Postman`, `Allure Report`
+### 📊 Dados & APIs
+`MongoDB`, `PostgreSQL`, `MySQL`, `SQL`, `REST APIs`, `Postman`
 
 ---
 
-## 🌟 Projetos em Destaque
+## 📌 Por onde começar
 
-Minha transição para Inteligência Artificial está sendo construída com dedicação, prática e propósito — e você pode acompanhar tudo isso de perto! 🚀
+Se você chegou aqui agora, recomendo começar por:
 
-Cada projeto que publico representa uma etapa concreta da minha especialização em IA, desde os fundamentos em Python até aplicações avançadas com redes neurais, visão computacional, NLP e muito mais.
+1️⃣ **AI Wiki – Minha trilha de aprendizado estruturada**  
+👉 https://github.com/alineAssuncao/ai_wiki  
 
-📘 Explore minha jornada completa na wiki:
+2️⃣ **Projetos com Agentes e LLMs**  
+- MCPMultAgent  
+- LangChainAgents  
+- CrewAI_consultoriaImobiliaria  
 
-[github.com/alineAssuncao/ai_wiki](https://github.com/alineAssuncao/ai_wiki)
-
-Lá você encontrará:
-- Cronograma mensal com temas organizados
-- Links para cursos e materiais gratuitos
-- Projetos práticos com código aberto
-- Resumos e reflexões sobre cada etapa
-- 
-Acompanhe minha evolução, mergulhe nos repositórios e veja como estou construindo um portfólio sólido para atuar com IA de forma ética, aplicada e criativa.
-
+3️⃣ **Estudos de base em IA**  
+- AI-900  
+- AI-102  
 
 ---
 
-## 🌐 Conecte-se comigo
+## 📘 AI Wiki – aprendizado estruturado
 
-📫 [LinkedIn](https://www.linkedin.com/in/alineassuncaoai/)  
-📬 aline.jassuncao@gmail.com
+A **AI Wiki** é meu repositório central de estudos em IA.  
+Cada tema segue o ciclo:
+
+1️⃣ Estudo teórico  
+2️⃣ Aplicação prática  
+3️⃣ Registro do aprendizado  
+4️⃣ Projeto ou experimento  
+
+O objetivo não é acumular links, mas **consolidar entendimento e prática**.
 
 ---
 
-> _"A tecnologia é a ponte entre o presente e o futuro. E eu estou construindo essa ponte com código, curiosidade e propósito."_  
+## 🌐 Vamos nos conectar?
+
+📫 LinkedIn: https://www.linkedin.com/in/alineassuncaoai/  
+📬 Email: aline.jassuncao@gmail.com  
+
+> *Aprender IA é mais do que dominar ferramentas — é entender contexto, limites e impacto.  
+> É isso que busco construir aqui, passo a passo.*

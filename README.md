@@ -22,13 +22,13 @@ experimentos e projetos em **IA, agentes inteligentes e engenharia de software**
 Atualmente, curso **duas pós-graduações em instituições públicas e reconhecidas**, que estruturam 
 e orientam meus estudos teóricos e práticos em IA:
 
-- 🎓 **Pós-graduação em Inteligência Artificial**  
-  **Universidade Tecnológica Federal do Paraná (UTFPR)**  
-  https://pos-graduacao-ead.cp.utfpr.edu.br/inteligencia-artificial/
-
 - 🎓 **Pós-graduação em Agentes Inteligentes**  
   **Instituto de Informática – Universidade Federal de Goiás (UFG)**  
   https://agentes.inf.ufg.br/
+
+- 🎓 **Pós-graduação em Inteligência Artificial**  
+  **Universidade Tecnológica Federal do Paraná (UTFPR)**  
+  https://pos-graduacao-ead.cp.utfpr.edu.br/inteligencia-artificial/
 
 Essas formações fornecem a base conceitual que aplico nos projetos publicados aqui, especialmente 
 em temas como **agentes autônomos, tomada de decisão, IA generativa, aprendizado de máquina, 

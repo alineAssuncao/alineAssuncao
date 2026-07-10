@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou Aline Assunção
 
-## **Software Engineer | DevOps Engineer | AI Engineering **
+## Software Engineer | DevOps Engineer | AI Engineering
 
 Construo soluções de software utilizando Inteligência Artificial,
 agentes inteligentes, automação e práticas modernas de engenharia,

@@ -1,94 +1,103 @@
 # 👋 Olá! Eu sou Aline Assunção
 
-**Engenheira de Software | DevOps | AI / LLMOps**
+## **Software Engineer | DevOps | AI Engineering | LLMOps**
 
-Atuo construindo soluções de software ponta a ponta, com experiência em **qualidade, automação, infraestrutura e IA aplicada**.
+Construo soluções de software utilizando IA, agentes inteligentes,6automação e práticas modernas de engenharia para transformar7problemas complexos em aplicações confiáveis e escaláveis.
 
 ---
 
 ## 🚀 Sobre mim
 
-Sou **Engenheira de Software** com uma base sólida em **engenharia de qualidade (QA)** e automação de testes, atualmente atuando como **DevOps** e evoluindo para **AI Engineering / LLMOps**.
+Sou Engenheira de Software com experiência em:
 
-Minha experiência combina:
+- Engenharia de Qualidade
+- Automação de Testes
+- DevOps e CI/CD
+- Inteligência Artificial e LLMs
 
-- desenvolvimento e qualidade de software
-- automação de testes e validação
-- pipelines e infraestrutura (DevOps)
-- construção de soluções com **LLMs e agentes inteligentes**
-
-Este GitHub funciona como meu **laboratório prático**, onde aplico conceitos em projetos reais.
-
----
-
-## 🧠 Especialização em IA
-
-Atualmente curso:
-
-- 🎓 **Agentes Inteligentes — UFG**
-- 🎓 **Inteligência Artificial — UTFPR**
-
-Com foco em aplicar fundamentos como:
-
-- sistemas autônomos
-- IA generativa
-- machine learning
-- tomada de decisão
-- uso responsável de IA
+Minha atuação combina qualidade, automação, infraestrutura e IA aplicada,
+permitindo construir soluções completas desde a concepção até a operação.
 
 ---
 
-## 🎯 O que eu construo
+## 🎯 Meu diferencial
 
-Trabalho na construção de soluções modernas envolvendo IA, incluindo:
+Além de desenvolver aplicações com IA, tenho experiência em
+qualidade de software e automação, permitindo atuar também em:
 
-- 🤖 **Agentes inteligentes e multiagentes**
-- 🧩 **Criação de skills, tools e integrações**
-- 🛡️ **Definição de guardrails e controle de comportamento**
-- ✍️ **Engineering de prompts e instructions**
-- 🔄 **Fluxos de decisão com LLMs**
-- ⚙️ Integração com pipelines e práticas de DevOps
+- Avaliação de aplicações com LLMs
+- Testes de agentes inteligentes
+- Definição de guardrails
+- Prompt Engineering
+- Instruction Design
+- Observabilidade e confiabilidade
+- Governança de sistemas baseados em IA
+  
+---
 
-👉 Sempre com foco em confiabilidade, clareza e uso prático.
+## 🤖 Atualmente construindo
+
+- Agentes inteligentes e sistemas multiagentes
+- Soluções utilizando MCP (Model Context Protocol)
+- Aplicações com LangChain e LangGraph
+- Arquiteturas para AI Engineering e LLMOps
+- Integração entre IA, automação e DevOps
+- Estudos práticos de IA Generativa
+  
+---
+
+## 🎓 Formação em IA
+
+- Pós-graduação em Agentes Inteligentes — UFG
+- Pós-graduação em Inteligência Artificial — UTFPR
+
+Essas formações complementam minha experiência prática em projetos
+de IA, agentes inteligentes e aplicações baseadas em LLMs.
 
 ---
 
-## 🔬 Áreas de foco
+## 🏆 Projetos em destaque
 
-- LLMs & IA Generativa
-- Agentes Autônomos e Multiagentes
-- Prompt Engineering e Instruction Design
-- LLMOps / AI Engineering
-- Arquiteturas com IA
-- Qualidade e avaliação de sistemas com IA
+### 📘 AI Wiki
+Minha base estruturada de estudos e aprendizado em IA.
 
----
+### 🤖 MCP MultAgent
+Experimentos com arquiteturas multiagentes e MCP.
 
-## 🛠️ Stack principal
+### 🔗 LangChain Agents
+Construção de agentes utilizando LangChain e ferramentas externas.
 
-### 🤖 IA & LLMs
-`LangChain` · `LangGraph` · `CrewAI` · `Llama` · `MCP` · `Agno`
-
-### ⚙️ DevOps / Infraestrutura
-`Docker` · `GitHub Actions` · `Jenkins` · `Sistemas de Virtualização`
-
-### 💻 Linguagens
-`Python` (principal) · `JavaScript` · `TypeScript` · `Java` · `C#`
-
-### 🧪 Engenharia de Qualidade
-`Selenium` · `Robot Framework` · `JUnit` · `Cucumber` · `TestComplete`
-
-### 📊 Dados & APIs
-`PostgreSQL` · `MongoDB` · `SQL Server` · `Oracle` · `REST APIs`
-
+### 🏠 CrewAI Consultoria Imobiliária
+Aplicação de agentes para cenários de negócio.
 
 ---
 
-## 🌐 Contato
+## 🛠️ Tecnologias
 
-- 💼 LinkedIn: https://www.linkedin.com/in/alineassuncaoai/
-- 📬 Email: aline.jassuncao@gmail.com
+### AI Engineering
+Python • LangChain • LangGraph • CrewAI • MCP • Agno
+
+### DevOps
+Docker • GitHub Actions • Jenkins
+
+### Quality Engineering
+Selenium • Robot Framework • Cucumber • JUnit
+
+### Dados
+PostgreSQL • MongoDB • REST APIs
+
 
 ---
 
-> *Construir com IA é combinar engenharia, contexto e responsabilidade.*
+## 🌐 Vamos nos conectar?
+
+💼 LinkedIn:
+linkedin.com/in/alineassuncaoai
+
+📧 Email:
+aline.jassuncao@gmail.com
+
+---
+
+"Software de qualidade continua sendo software de qualidade,
+mesmo quando é construído com IA."

@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou Aline Assunção
 
-## ## Software Engineer | DevOps Engineer | AI Engineering | Quality Engineering
+## Software Engineer | DevOps Engineer | AI Engineering | Quality Engineering
 
 Construo soluções de software utilizando Inteligência Artificial, agentes inteligentes, automação e práticas modernas de engenharia, com foco em qualidade, confiabilidade, escalabilidade e geração de valor para o negócio.
 
@@ -41,9 +41,7 @@ Além da atuação em DevOps, participo da construção de soluções com IA, in
 ---
 ### 💡 Destaque recente
 
-Participei da criação de uma squad híbrida apoiada pelo Microsoft Copilot,
-explorando o uso de IA para acelerar atividades de engenharia,
-colaboração e entrega de software.
+Participei da criação de uma squad híbrida apoiada pelo Microsoft Copilot, explorando o uso de IA para acelerar atividades de engenharia, colaboração, geração de conhecimento e entrega de software.
 
 ---
 
@@ -80,7 +78,7 @@ Atualmente concentro meus estudos e projetos em:
 - LLMOps
 - Prompt Engineering
 - Guardrails
-- Skills e Tools
+- Skills, Tools e Integrações
 - MCP (Model Context Protocol)
 - Automação assistida por IA
 - Uso do Microsoft Copilot em fluxos de engenharia

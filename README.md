@@ -1,11 +1,8 @@
 # 👋 Olá! Eu sou Aline Assunção
 
-## Software Engineer | DevOps Engineer | AI Engineering
+## ## Software Engineer | DevOps Engineer | AI Engineering | Quality Engineering
 
-Construo soluções de software utilizando Inteligência Artificial,
-agentes inteligentes, automação e práticas modernas de engenharia,
-com foco em qualidade, confiabilidade, escalabilidade e geração
-de valor para o negócio.
+Construo soluções de software utilizando Inteligência Artificial, agentes inteligentes, automação e práticas modernas de engenharia, com foco em qualidade, confiabilidade, escalabilidade e geração de valor para o negócio.
 
 ---
 
@@ -18,16 +15,35 @@ Sou Engenheira de Software com experiência em:
 - DevOps e CI/CD
 - Inteligência Artificial e LLMs
 
-Minha atuação combina qualidade, automação, infraestrutura e IA aplicada,
-permitindo construir soluções completas e alinhadas às necessidades do negócio.
+Minha atuação combina qualidade, automação, infraestrutura e IA aplicada, permitindo construir soluções completas e alinhadas às necessidades do negócio.
 
-Minha experiência foi construída ao longo de diferentes camadas da
-engenharia de software, passando por qualidade, automação, liderança
-técnica, DevOps e, mais recentemente, AI Engineering.
+Minha experiência foi construída ao longo de diferentes camadas da engenharia de software, passando por qualidade, automação, liderança técnica, DevOps e, mais recentemente, AI Engineering.
 
-Essa trajetória me permite conectar requisitos de negócio,
-práticas de engenharia, confiabilidade operacional e inteligência
-artificial para entregar soluções de ponta a ponta.
+Essa trajetória me permite conectar requisitos de negócio, práticas de engenharia, confiabilidade operacional e inteligência artificial para entregar soluções de ponta a ponta.
+
+---
+
+## ⚙️ Atuação atual
+
+Atualmente atuo como DevOps Engineer, contribuindo para a evolução de plataformas de entrega e governança de esteiras através de:
+
+- GitHub Actions e CI/CD
+- Governança de pipelines
+- GitHub e Git
+- Azure
+- JFrog
+- APIM
+- Shell Scripts
+- Plataformas internas de desenvolvimento
+
+Além da atuação em DevOps, participo da construção de soluções com IA, incluindo agentes inteligentes, integrações com LLMs, definição de guardrails, engenharia de prompts e automações apoiadas por IA.
+
+---
+### 💡 Destaque recente
+
+Participei da criação de uma squad híbrida apoiada pelo Microsoft Copilot,
+explorando o uso de IA para acelerar atividades de engenharia,
+colaboração e entrega de software.
 
 ---
 
@@ -39,9 +55,7 @@ Minha atuação combina três áreas que normalmente aparecem separadas:
 - DevOps
 - Inteligência Artificial
 
-Essa combinação me permite não apenas construir aplicações com IA,
-mas também pensar em confiabilidade, observabilidade, validação,
-governança e operação em ambientes reais.
+Essa combinação me permite não apenas construir aplicações com IA, mas também pensar em confiabilidade, observabilidade, validação, governança e operação em ambientes reais.
 
 Atuo especialmente em:
 
@@ -53,30 +67,7 @@ Atuo especialmente em:
 - Design de agentes e workflows com IA
 - Observabilidade e confiabilidade
 - Governança de sistemas baseados em IA
-  
----
 
-## ⚙️ Atuação atual
-
-Atualmente atuo como DevOps Engineer, contribuindo para a evolução
-de plataformas de entrega e governança de esteiras através de:
-
-- GitHub Actions e CI/CD
-- Governança de pipelines
-- GitHub e Git
-- Azure
-- JFrog
-- APIM
-- Shell Scripts
-- Plataformas internas de desenvolvimento
-
-Além da atuação em DevOps, participo da construção de soluções com IA,
-incluindo agentes inteligentes, integrações com LLMs, definição de
-guardrails, engenharia de prompts e automações apoiadas por IA.
-
-Recentemente participei da criação de uma squad híbrida
-apoiada por IA, utilizando Copilot para acelerar atividades
-de engenharia, colaboração e entrega de software.
   
 ---
 
@@ -94,8 +85,7 @@ Atualmente concentro meus estudos e projetos em:
 - Automação assistida por IA
 - Uso do Microsoft Copilot em fluxos de engenharia
 
-Meu foco está na aplicação prática dessas tecnologias para ampliar
-produtividade, qualidade e confiabilidade em processos de engenharia de software.
+Meu foco está na aplicação prática dessas tecnologias para ampliar produtividade, qualidade e confiabilidade em processos de engenharia de software.
 
 ---
 
@@ -104,31 +94,25 @@ produtividade, qualidade e confiabilidade em processos de engenharia de software
 - Pós-graduação em Agentes Inteligentes — UFG
 - Pós-graduação em Inteligência Artificial — UTFPR
 
-Essas formações complementam minha experiência prática em projetos
-de IA, agentes inteligentes e aplicações baseadas em LLMs.
+Essas formações complementam minha experiência prática em projetos de IA, agentes inteligentes e aplicações baseadas em LLMs.
 
 ---
 
 ## 🏆 Projetos em destaque
 
-Alguns projetos que representam minha evolução em AI Engineering,
-agentes inteligentes e aplicações baseadas em LLMs:
+Alguns projetos que representam minha evolução em AI Engineering, agentes inteligentes e aplicações baseadas em LLMs:
 
 ### 📘 AI Wiki
-Repositório central que organiza minha trilha de aprendizado,
-conceitos, anotações e aplicações práticas em IA.
+Repositório central que organiza minha trilha de aprendizado, conceitos, anotações e aplicações práticas em IA.
 
 ### 🤖 MCP MultAgent
-Exploração de arquiteturas multiagentes utilizando MCP e integração
-entre agentes especializados.
+Exploração de arquiteturas multiagentes utilizando MCP e integração entre agentes especializados.
 
 ### 🔗 LangChain Agents
-Construção de agentes com LangChain, ferramentas externas e fluxos
-de tomada de decisão baseados em LLMs.
+Construção de agentes com LangChain, ferramentas externas e fluxos de tomada de decisão baseados em LLMs.
 
 ### 🏠 CrewAI Consultoria Imobiliária
-Prova de conceito utilizando agentes colaborativos para apoiar
-processos de análise e recomendação no mercado imobiliário.
+Prova de conceito utilizando agentes colaborativos para apoiar processos de análise e recomendação no mercado imobiliário.
 
 ---
 

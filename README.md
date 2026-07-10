@@ -1,8 +1,11 @@
 # 👋 Olá! Eu sou Aline Assunção
 
-## **Software Engineer | DevOps | AI Engineering | LLMOps**
+## **Software Engineer | DevOps Engineer | AI Engineering **
 
-Construo soluções de software utilizando IA, agentes inteligentes,6automação e práticas modernas de engenharia para transformar7problemas complexos em aplicações confiáveis e escaláveis.
+Construo soluções de software utilizando Inteligência Artificial,
+agentes inteligentes, automação e práticas modernas de engenharia,
+com foco em qualidade, confiabilidade, escalabilidade e geração
+de valor para o negócio.
 
 ---
 
@@ -16,34 +19,84 @@ Sou Engenheira de Software com experiência em:
 - Inteligência Artificial e LLMs
 
 Minha atuação combina qualidade, automação, infraestrutura e IA aplicada,
-permitindo construir soluções completas desde a concepção até a operação.
+permitindo construir soluções completas e alinhadas às necessidades do negócio.
+
+Minha experiência foi construída ao longo de diferentes camadas da
+engenharia de software, passando por qualidade, automação, liderança
+técnica, DevOps e, mais recentemente, AI Engineering.
+
+Essa trajetória me permite conectar requisitos de negócio,
+práticas de engenharia, confiabilidade operacional e inteligência
+artificial para entregar soluções de ponta a ponta.
 
 ---
 
 ## 🎯 Meu diferencial
 
-Além de desenvolver aplicações com IA, tenho experiência em
-qualidade de software e automação, permitindo atuar também em:
+Minha atuação combina três áreas que normalmente aparecem separadas:
+
+- Engenharia de Qualidade
+- DevOps
+- Inteligência Artificial
+
+Essa combinação me permite não apenas construir aplicações com IA,
+mas também pensar em confiabilidade, observabilidade, validação,
+governança e operação em ambientes reais.
+
+Atuo especialmente em:
 
 - Avaliação de aplicações com LLMs
 - Testes de agentes inteligentes
 - Definição de guardrails
 - Prompt Engineering
 - Instruction Design
+- Design de agentes e workflows com IA
 - Observabilidade e confiabilidade
 - Governança de sistemas baseados em IA
   
 ---
 
-## 🤖 Atualmente construindo
+## ⚙️ Atuação atual
 
-- Agentes inteligentes e sistemas multiagentes
-- Soluções utilizando MCP (Model Context Protocol)
-- Aplicações com LangChain e LangGraph
-- Arquiteturas para AI Engineering e LLMOps
-- Integração entre IA, automação e DevOps
-- Estudos práticos de IA Generativa
+Atualmente atuo como DevOps Engineer, contribuindo para a evolução
+de plataformas de entrega e governança de esteiras através de:
+
+- GitHub Actions e CI/CD
+- Governança de pipelines
+- GitHub e Git
+- Azure
+- JFrog
+- APIM
+- Shell Scripts
+- Plataformas internas de desenvolvimento
+
+Além da atuação em DevOps, participo da construção de soluções com IA,
+incluindo agentes inteligentes, integrações com LLMs, definição de
+guardrails, engenharia de prompts e automações apoiadas por IA.
+
+Recentemente participei da criação de uma squad híbrida
+apoiada por IA, utilizando Copilot para acelerar atividades
+de engenharia, colaboração e entrega de software.
   
+---
+
+## 🤖 IA aplicada à Engenharia
+
+Atualmente concentro meus estudos e projetos em:
+
+- Agentes Inteligentes
+- Sistemas Multiagentes
+- LLMOps
+- Prompt Engineering
+- Guardrails
+- Skills e Tools
+- MCP (Model Context Protocol)
+- Automação assistida por IA
+- Uso do Microsoft Copilot em fluxos de engenharia
+
+Meu foco está na aplicação prática dessas tecnologias para ampliar
+produtividade, qualidade e confiabilidade em processos de engenharia de software.
+
 ---
 
 ## 🎓 Formação em IA
@@ -58,17 +111,24 @@ de IA, agentes inteligentes e aplicações baseadas em LLMs.
 
 ## 🏆 Projetos em destaque
 
+Alguns projetos que representam minha evolução em AI Engineering,
+agentes inteligentes e aplicações baseadas em LLMs:
+
 ### 📘 AI Wiki
-Minha base estruturada de estudos e aprendizado em IA.
+Repositório central que organiza minha trilha de aprendizado,
+conceitos, anotações e aplicações práticas em IA.
 
 ### 🤖 MCP MultAgent
-Experimentos com arquiteturas multiagentes e MCP.
+Exploração de arquiteturas multiagentes utilizando MCP e integração
+entre agentes especializados.
 
 ### 🔗 LangChain Agents
-Construção de agentes utilizando LangChain e ferramentas externas.
+Construção de agentes com LangChain, ferramentas externas e fluxos
+de tomada de decisão baseados em LLMs.
 
 ### 🏠 CrewAI Consultoria Imobiliária
-Aplicação de agentes para cenários de negócio.
+Prova de conceito utilizando agentes colaborativos para apoiar
+processos de análise e recomendação no mercado imobiliário.
 
 ---
 
@@ -78,13 +138,19 @@ Aplicação de agentes para cenários de negócio.
 Python • LangChain • LangGraph • CrewAI • MCP • Agno
 
 ### DevOps
-Docker • GitHub Actions • Jenkins
+GitHub • Git • GitHub Actions • Jenkins • Docker
 
 ### Quality Engineering
 Selenium • Robot Framework • Cucumber • JUnit
 
 ### Dados
 PostgreSQL • MongoDB • REST APIs
+
+### Cloud & Platforms
+Azure • APIM • JFrog
+
+### Collaboration
+Jira • Confluence
 
 
 ---
@@ -99,5 +165,5 @@ aline.jassuncao@gmail.com
 
 ---
 
-"Software de qualidade continua sendo software de qualidade,
-mesmo quando é construído com IA."
+"IA não substitui engenharia.
+Ela potencializa a capacidade de construir soluções melhores."
